@@ -1,4 +1,5 @@
 # COM-418E-LECTURE-NOTES on EXPERT SYSTEMS
+regards: These notes were inspired by Edutechleaners. www.edutechlearners.com/Expert_systems_Notes
 
 #The notes are divided into four different units.The particular units covers following topics:- 
 
