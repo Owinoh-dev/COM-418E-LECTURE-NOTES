@@ -1,4 +1,4 @@
-# COM-418E-LECTURE-NOTES
+# COM-418E-LECTURE-NOTES on EXPERT SYSTEMS
 
 #The notes are divided into four different units.The particular units covers following topics:- 
 
